@@ -1,0 +1,1 @@
+Cleaned 2020 NFL season data to predict and classify offensive play types and assist defensive team in devising optimal game plan. Constructed complex machine learning algorithms, including decision trees, k-nearest neighbors, and adaptive boosting to identify most suitable model in current and future seasons.
